@@ -52,7 +52,7 @@ The ***Amazon Fresh delivery slot notification tool*** informs users verbally :s
  <img src="https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Push%20Me%20app%20notification.png" height=500>
 </p>
 
-8.	Once you're notified, quickly select a slot and finish checking out! :happy:
+8.	Once you're notified, quickly select a slot and finish checking out! :smile:
 
 
 ### Important!
