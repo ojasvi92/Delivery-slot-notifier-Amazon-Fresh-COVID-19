@@ -34,7 +34,7 @@ Please share this with your friends and family!
 ![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Amazon%20fresh%20checkout%20page.png)
  
 6.	Click “Notify Me” button on the tool and turn up the volume of your PC or Phone (if using app on Phone). This minimizes the checkout window and keeps checking in the background
- ![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Application%20home%20page.png)
+ ![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Application%20Notify%20Me.png)
  
 7.	Once a slot is available the tool will send notification verbally and on app 
      
