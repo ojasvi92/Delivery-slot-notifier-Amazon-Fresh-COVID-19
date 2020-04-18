@@ -53,5 +53,5 @@ The ***Amazon Fresh delivery slot notification tool*** informs users verbally :s
 
 
 ### Important!
-1. Do not close the browser window opened up by the application
+1. Do not close the browser window initialized by the application
 2. Turn up the volume of your laptop/desktop
