@@ -10,7 +10,7 @@ The ***Amazon Fresh delivery slot notification tool*** informs users verbally :s
 
 **1.** Download the 'Push Me' app on your iPhone OR Windows PC and follow the in-app instructions to setup a token.
 
-**2.** Create a text file called "user_notification.txt", paste your token (from Step-1) in this file. Save the file in the same folder as this application (Amazon_Delivery_Slot_Finder.exe).
+**2.** Create a text file called "user_notification.txt", paste your token (from Step-1) in this file. Save the file in the same folder as this application (Amazon_Delivery_Slot_Notifier.exe).
 
 **3.** Double-click the application to begin the process!.
 
@@ -26,7 +26,7 @@ The ***Amazon Fresh delivery slot notification tool*** informs users verbally :s
 
 
 ### Step-by-Step Instructions ###
-1. Double-click on Amazon_Delivery_Slot_Finder.exe to run the application 
+1. Double-click on Amazon_Delivery_Slot_Notifier.exe to run the application 
 
 2. Click on the “Launch Amazon Fresh” button - this will open up the chrome browser and redirect to the Amazon fresh sign in page
 
