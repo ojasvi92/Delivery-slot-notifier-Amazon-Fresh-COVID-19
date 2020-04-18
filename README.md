@@ -23,22 +23,27 @@ Please share this with your friends and family!
 1. Double-click on Amazon_Delivery_Slot_Finder.exe to run the application. 
 
 2. Click on “Launch Amazon Fresh”, this will open a new window on chrome browser with Amazon fresh sign in page
+
 ![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Application%20home%20page.png)
  
 3. Sign in on amazon account with your credentials
+
  ![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Amazon%20fresh%20home%20page.png)
  
 4.	Fill cart with your complete order and proceed through the checkout process manually
 
 5.	Stop once you've arrived at the page saying no slots are available
+
 ![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Amazon%20fresh%20checkout%20page.png)
  
 6.	Click “Notify Me” button on the tool and turn up the volume of your PC or Phone (if using app on Phone). This minimizes the checkout window and keeps checking in the background
+
  ![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Application%20Notify%20Me.png)
  
-7.	Once a slot is available the tool will send notification verbally and on app 
+7.	Once a slot is available the application will send notification verbally and on app 
 
 <p align="center">
  <img src="https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Push%20Me%20app%20notification.png" height=500>
 </p>
+
 8.	Once you're notified, quickly select a slot and finish checking out (on the same browser)
