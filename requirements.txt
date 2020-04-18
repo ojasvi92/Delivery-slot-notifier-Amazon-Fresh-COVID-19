@@ -1,0 +1,12 @@
+selenium
+pandas
+numpy
+datetime
+PySimpleGUI
+BeautifulSoup4
+requests
+pywin32
+urllib
+pyinstaller
+elementpath
+
