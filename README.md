@@ -18,7 +18,7 @@ The ***Amazon Fresh delivery slot notification tool*** informs users verbally :s
 
 
 ### Pre-requisites ###
-1. This application supported by the Windows operating system currently. (We are actively working on creating a macOS version!)
+1. This application supported by the Windows operating system currently. (MacOS version under development!)
 2. Chrome browser
 3. "Push me" App and "user_notification.txt" (File with user's registered token)
 
