@@ -19,11 +19,9 @@ Please share this with your friends and family!
 2. Chrome browser
 3. "Push me" App and "user_notification.txt" file with user's registered token
 
-### How it works ###
-1. Download the 'Push Me' app on your iPhone OR Windows PC and follow the in-app instructions to setup a token
+### Step-by-Step Instructions ###
+1. Double-click on Amazon_Delivery_Slot_Finder.exe to run the application. 
 
-2. Create a text file called "user_notification.txt", paste your token (from Step-1) in this file. Save the file in the same folder as this application (Amazon_Delivery_Slot_Finder.exe)
-3. Double-click on Amazon_Delivery_Slot_Finder.exe to run the application
 4. Click on “Launch Amazon Fresh”, this will open a new window on chrome browser with Amazon fresh sign in page
  
 5. Sign in on amazon account with your credentials
