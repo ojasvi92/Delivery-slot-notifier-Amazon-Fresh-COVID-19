@@ -14,9 +14,7 @@ The ***Amazon Fresh delivery slot notification tool*** informs users verbally :s
 
 **3.** Double-click the application to begin the process!.
 
-Please share this with your friends and family!
-
-### #StrongerTogether :muscle: 
+### Please share this with your friends and family! #StrongerTogether :muscle: 
 
 
 ### Pre-requisites ###
