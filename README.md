@@ -11,7 +11,7 @@ We have tried to make this application user-friendly so that even non-technical 
 
 Please share this with your friends and family!
 
-### #StrongerTogether
+### #StrongerTogether :muscle:
 
 
 ### Pre-requisites ###
