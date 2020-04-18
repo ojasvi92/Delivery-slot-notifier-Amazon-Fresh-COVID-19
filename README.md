@@ -23,6 +23,7 @@ Please share this with your friends and family!
 1. Double-click on Amazon_Delivery_Slot_Finder.exe to run the application. 
 
 4. Click on “Launch Amazon Fresh”, this will open a new window on chrome browser with Amazon fresh sign in page
+![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Application%20home%20page.png)
  
 5. Sign in on amazon account with your credentials
  
