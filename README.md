@@ -37,7 +37,8 @@ Please share this with your friends and family!
  ![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Application%20Notify%20Me.png)
  
 7.	Once a slot is available the tool will send notification verbally and on app 
-     
-<img src="https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Push%20Me%20app%20notification.png" height=500 align="center">
 
+<p align="center">
+ <img src="https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Push%20Me%20app%20notification.png" height=500>
+</p>
 8.	Once you're notified, quickly select a slot and finish checking out (on the same browser)
