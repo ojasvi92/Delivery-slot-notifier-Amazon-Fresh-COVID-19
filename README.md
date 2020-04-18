@@ -22,16 +22,21 @@ Please share this with your friends and family!
 ### Step-by-Step Instructions ###
 1. Double-click on Amazon_Delivery_Slot_Finder.exe to run the application. 
 
-4. Click on “Launch Amazon Fresh”, this will open a new window on chrome browser with Amazon fresh sign in page
+2. Click on “Launch Amazon Fresh”, this will open a new window on chrome browser with Amazon fresh sign in page
 ![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Application%20home%20page.png)
  
-5. Sign in on amazon account with your credentials
+3. Sign in on amazon account with your credentials
+ ![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Amazon%20fresh%20home%20page.png)
  
+4.	Fill cart with your complete order and proceed through the checkout process manually
 
-6.	Fill cart with your complete order and proceed through the checkout process manually.
-7.	Stop once you've arrived at the page saying no slots are available
+5.	Stop once you've arrived at the page saying no slots are available
+![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Amazon%20fresh%20checkout%20page.png)
  
-8.	Click “Notify Me” button on the tool and turn up the volume of your PC or Phone (if using app on Phone). This minimizes the checkout window and refreshes every ~10 seconds in the background
+6.	Click “Notify Me” button on the tool and turn up the volume of your PC or Phone (if using app on Phone). This minimizes the checkout window and refreshes every ~10 seconds in the background
+ ![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Application%20home%20page.png)
  
-9.	Once a slot is available the tool will send notification verbally and on app of an open slot 
-10.	Once you're notified, quickly select a slot and finish checking out (on the same browser) because available slots are snagged almost instantly
+7.	Once a slot is available the tool will send notification verbally and on app of an open slot 
+![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Push%20Me%20app%20notification.png)
+
+8.	Once you're notified, quickly select a slot and finish checking out (on the same browser) because available slots are snagged almost instantly
