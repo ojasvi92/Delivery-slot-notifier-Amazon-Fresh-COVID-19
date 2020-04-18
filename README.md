@@ -5,9 +5,9 @@ In these uncertain times, it's essential that we do our part and stay home to st
 
 We have tried to make this application user-friendly so that even non-technical users are able to run it on their systems in 3 easy steps:
 
-## 1. Download the 'Push Me' app on your iPhone OR Windows PC and follow the in-app instructions to setup a token.
-## 2. Create a text file called "user_notification.txt", paste your token (from Step-1) in this file. Save the file in the same folder as this application (Amazon_Delivery_Slot_Finder.exe).
-## 3. Double-click the application to begin the process!.
+<font size ="+1">1.</font> Download the 'Push Me' app on your iPhone OR Windows PC and follow the in-app instructions to setup a token.
+2. Create a text file called "user_notification.txt", paste your token (from Step-1) in this file. Save the file in the same folder as this application (Amazon_Delivery_Slot_Finder.exe).
+3. Double-click the application to begin the process!.
 
 Please share this with your friends and family!
 
@@ -46,7 +46,7 @@ Please share this with your friends and family!
  <img src="https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Push%20Me%20app%20notification.png" height=500>
 </p>
 
-8.	Once you're notified, quickly select a slot and finish checking out!
+8.	Once you're notified, quickly select a slot and finish checking out! :relieved:
 
 
 ### Important!
