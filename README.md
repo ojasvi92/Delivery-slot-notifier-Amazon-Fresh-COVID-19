@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/master/img/delivery-truck-icon.ico" height=70 width=70> Amazon-Fresh-Delivery-Slot-Notifier-COVID-19
-The ***Amazon Fresh Delivery Slot Notification tool*** informs users when it finds a delivery slot open on the 'Amazon Fresh' checkout page.
+The ***Amazon Fresh delivery slot notification tool*** informs users when it finds a delivery slot open on the 'Amazon Fresh' checkout page.
 
 In these uncertain times, it's essential that we do our part and stay home to stop the spread of COVD-19. Unfortunately, this also means that it's tough to get our hands on groceries. Amazon Fresh delivery slots are few and disappear within minutes due to extremely high demand. This application notifies users of available slots verbally and via push notifications to their phones.
 
