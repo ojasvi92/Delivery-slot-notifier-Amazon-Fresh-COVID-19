@@ -6,7 +6,7 @@ Unfortunately, this also means that it's tough to get our hands on groceries. Am
 
 The ***Amazon Fresh delivery slot notification tool*** informs users verbally :speaker: and via push notifications :iphone: when it finds a delivery slot open on the 'Amazon Fresh' checkout page.
 
-We have tried to make this application user-friendly so that anyone is able to run it on their systems in **3 easy steps**:
+### We have tried to make this application user-friendly so that anyone is able to run it on their systems in **3 easy steps**:
 
 **1.** Download the 'Push Me' app on your iPhone OR Windows PC and follow the in-app instructions to setup a token.
 
