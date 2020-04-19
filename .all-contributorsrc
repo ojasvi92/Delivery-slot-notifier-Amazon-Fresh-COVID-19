@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "vivekgautam104",
+      "name": "Vivek Gautam",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/11819397?v=4",
+      "profile": "https://github.com/vivekgautam104",
+      "contributions": [
+        "infra",
+        "maintenance",
+        "platform"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Amazon-Fresh-Delivery-Slot-Notifier-COVID-19",
+  "projectOwner": "ojasvi92",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
