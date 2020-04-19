@@ -1,4 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/master/img/delivery-truck-icon.ico" height=70 width=70> Amazon-Fresh-Delivery-Slot-Notifier-COVID-19
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 In these uncertain times, it's essential that we do our part and stay home :house_with_garden: to stop the spread of COVID-19 :earth_asia:
 
@@ -59,3 +62,22 @@ The ***Amazon Fresh delivery slot notification tool*** informs users verbally :s
 ### Important!
 1. Do not close the browser window initialized by the application
 2. Turn up the volume of your laptop/desktop
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/vivekgautam104"><img src="https://avatars2.githubusercontent.com/u/11819397?v=4" width="100px;" alt=""/><br /><sub><b>Vivek Gautam</b></sub></a><br /><a href="#infra-vivekgautam104" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-vivekgautam104" title="Maintenance">🚧</a> <a href="#platform-vivekgautam104" title="Packaging/porting to new platform">📦</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
