@@ -18,7 +18,6 @@ The ***Amazon Fresh delivery slot notification tool*** informs users verbally :s
 
 
 ### Please share this with your friends and family! #StrongerTogether :muscle:
-###### (App is supported by Windows, macOS, and Linux operating systems)
 
 ****
 Users in India can use our other [application for the "Big Basket" delivery website](https://github.com/vivekgautam104/bigbasket-slot-finder)
