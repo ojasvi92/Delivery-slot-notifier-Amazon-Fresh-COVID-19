@@ -23,7 +23,7 @@ The ***Amazon Fresh delivery slot notification tool*** informs users verbally :s
 Users in India can use our other [application for the "Big Basket" delivery website](https://github.com/vivekgautam104/bigbasket-slot-finder)
 ****
 
-### Pre-requisites ###
+### Pre-Requisites ###
 1. Chrome browser
 2. "Push Me" App
 3. "user_notification.txt" (File containing users registered token from the "Push Me" app)
