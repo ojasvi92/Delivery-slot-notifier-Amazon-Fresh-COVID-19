@@ -16,9 +16,9 @@ import selenium
 from bs4 import BeautifulSoup
 from bs4 import Comment
 from selenium import webdriver
-# from win32com.client import Dispatch
-#
-# speak = Dispatch("SAPI.SpVoice")
+from win32com.client import Dispatch
+
+speak = Dispatch("SAPI.SpVoice")
 import sys
 import os
 import os.path
