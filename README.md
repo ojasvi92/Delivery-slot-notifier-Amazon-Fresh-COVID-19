@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/master/img/delivery-truck-icon.ico" height=70 width=70> Amazon-Fresh-Delivery-Slot-Notifier-COVID-19
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 In these uncertain times, it's essential that we do our part and stay home :house_with_garden: to stop the spread of COVID-19 :earth_asia:
