@@ -7,6 +7,5 @@ BeautifulSoup4
 requests
 pywin32
 urllib
-pyinstaller
 elementpath
 
