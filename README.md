@@ -13,7 +13,7 @@ Users in India can use our other [application for the "Big Basket" delivery webs
 
 
 ### We have tried to make this application user-friendly so that anyone is able to run it on their systems in **3 easy steps**:
-**(Download the application from [here](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/releases/download/v1.0.0/Amazon_Delivery_Slot_Notifier.zip) )**
+**([Download the application from here](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/releases/download/v1.0.0/Amazon_Delivery_Slot_Notifier.zip) )**
 
 **1.** Download the 'Push Me' app on your iPhone OR Windows PC and follow the in-app instructions to setup a token.
 
