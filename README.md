@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/master/img/delivery-truck-icon.ico" height=70 width=70> Delivery slot notifier - Amazon Fresh - COVID-19
+# <img src="https://raw.githubusercontent.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/master/img/delivery-truck-icon.ico" height=70 width=70> Delivery slot notifier - Amazon Fresh (COVID-19 Response)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
