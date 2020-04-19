@@ -9,11 +9,12 @@ Unfortunately, this also means that it's tough to get our hands on groceries. Am
 
 The ***Amazon Fresh delivery slot notification tool*** informs users verbally :speaker: and via push notifications :iphone: when it finds a delivery slot open on the 'Amazon Fresh' checkout page.
 
-Users in India can use our other [application for the "Big Basket" delivery website](https://github.com/vivekgautam104/bigbasket-slot-finder)
-
-
-### We have tried to make this application user-friendly so that anyone is able to run it on their systems in **3 easy steps** ([Download the application from here](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/releases/download/v1.0.0/Amazon_Delivery_Slot_Notifier.zip) ):
 ****
+Users in India can use our other [application for the "Big Basket" delivery website](https://github.com/vivekgautam104/bigbasket-slot-finder)
+****
+
+
+### We have tried to make this application user-friendly so that anyone is able to run it on their systems in 3 easy steps ([Download the application from here](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/releases/download/v1.0.0/Amazon_Delivery_Slot_Notifier.zip)):
 
 **1.** Download the 'Push Me' app on your iPhone OR Windows PC and follow the in-app instructions to setup a token.
 
@@ -23,6 +24,8 @@ Users in India can use our other [application for the "Big Basket" delivery webs
 
 ### Please share this with your friends and family! #StrongerTogether :muscle: 
 
+****
+
 
 
 ### Pre-requisites ###
@@ -30,6 +33,7 @@ Users in India can use our other [application for the "Big Basket" delivery webs
 2. Chrome browser
 3. "Push me" App and "user_notification.txt" (File containing users registered token)
 
+****
 
 
 ### Step-by-Step Instructions ###
@@ -65,6 +69,8 @@ Users in India can use our other [application for the "Big Basket" delivery webs
 ### Important!
 1. Do not close the browser window initialized by the application
 2. Turn up the volume of your laptop/desktop
+
+****
 
 ## Contributors ✨
 
