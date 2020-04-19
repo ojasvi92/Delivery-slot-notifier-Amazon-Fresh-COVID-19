@@ -72,7 +72,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/shivangimgupta"><img src="https://avatars3.githubusercontent.com/u/32472018?v=4" width="100px;" alt=""/><br /><sub><b>shivangimgupta</b></sub></a><br /><a href="#infra-shivangimgupta" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/commits?author=shivangimgupta" title="Tests">⚠️</a> <a href="https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/commits?author=shivangimgupta" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/shivangimgupta"><img src="https://avatars3.githubusercontent.com/u/32472018?v=4" width="100px;" alt=""/><br /><sub><b>shivangimgupta</b></sub></a><br /><a href="#infra-shivangimgupta" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/commits?author=shivangimgupta" title="Tests">⚠️</a> <a href="https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/commits?author=shivangimgupta" title="Code">💻</a> <a href="https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/commits?author=shivangimgupta" title="Documentation">📖</a></td>
   </tr>
 </table>
 
