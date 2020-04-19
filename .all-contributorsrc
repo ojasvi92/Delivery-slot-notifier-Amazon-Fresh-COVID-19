@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "shivangimgupta",
+      "name": "shivangimgupta",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/32472018?v=4",
+      "profile": "https://github.com/shivangimgupta",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Amazon-Fresh-Delivery-Slot-Notifier-COVID-19",
+  "projectOwner": "ojasvi92",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
