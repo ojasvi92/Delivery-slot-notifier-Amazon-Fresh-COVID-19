@@ -11,22 +11,23 @@ The ***Amazon Fresh delivery slot notification tool*** informs users verbally :s
 
 ### We have tried to make this application user-friendly so that anyone is able to run it on their systems in 3 easy steps ([Download the application from here](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/releases/download/v1.0.0/Amazon_Delivery_Slot_Notifier.zip)):
 
-**1.** Download the 'Push Me' app on your iPhone OR Windows PC and follow the in-app instructions to setup a token.
+**1.** Download the 'Push Me' app on your iPhone OR PC and follow the in-app instructions to setup a token.
 
 **2.** Create a text file called "user_notification.txt", paste your token (from Step-1) in this file. Save the file in the same folder as this application (Amazon_Delivery_Slot_Notifier.exe).
 
 **3.** Double-click the application to begin the process!.
 
-### Please share this with your friends and family! #StrongerTogether :muscle: 
+### Please share this with your friends and family! #StrongerTogether :muscle:
+###### (App is supported by Windows, macOS, and Linux operating systems)
 
 ****
 Users in India can use our other [application for the "Big Basket" delivery website](https://github.com/vivekgautam104/bigbasket-slot-finder)
 ****
 
 ### Pre-requisites ###
-1. This application supported by the Windows operating system currently. (MacOS version under development!)
-2. Chrome browser
-3. "Push me" App and "user_notification.txt" (File containing users registered token)
+1. Chrome browser
+2. "Push Me" App
+3. "user_notification.txt" (File containing users registered token from the "Push Me" app)
 
 ****
 
