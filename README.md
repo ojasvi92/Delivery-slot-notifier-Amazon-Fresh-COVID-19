@@ -24,6 +24,7 @@ The ***Amazon Fresh delivery slot notification tool*** informs users via system 
 ### Please share this with your friends and family! #StrongerTogether :muscle:
 
 ****
+Users who prefer to order via [Instacart can use this application](https://github.com/vivekgautam104/instacart-slot-finder)
 Users in India can use our other [application for the "Big Basket" delivery website](https://github.com/vivekgautam104/bigbasket-slot-finder)
 ****
 
