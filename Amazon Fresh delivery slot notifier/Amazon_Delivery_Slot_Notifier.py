@@ -21,6 +21,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 
 
+
 # Chrome Driver Setup
 
 def get_chrome_driver_filename():
@@ -215,29 +216,55 @@ def search_for_slots(driver, PUSHuser, PUSHkey, window, platform):
 
                     # Send Notification to iphone
                     pushme_msg = 'Delivery slot found! :) (Please book quickly as slots are not guaranteed)'
-                    PostAlert(PUSHuser, PUSHkey, pushme_msg)
+                    try:
+                        PostAlert(PUSHuser, PUSHkey, pushme_msg)
+                        driver.maximize_window()
+                        if platform == "win":
+                            import win32com.client
+                            import pythoncom
+                            pythoncom.CoInitialize()
+                            from win32com.client import Dispatch
+                            speak = Dispatch("SAPI.SpVoice")
+                            n = 3
+                            while n > 0:
+                                speak.Speak("Delivery slot found! Slots are not guaranteed!")
+                                n -= 1
+                        if platform == "mac":
+                            n = 3
+                            while n > 0:
+                                os.system("say 'Delivery slot found! Slots are not guaranteed!'")
+                                n -= 1
 
-                    sg.Popup('Delivery slot found! :)', 'Notification sent to your phone.')
-                    driver.maximize_window()
-                    if platform == "win":
-                        from win32com.client import Dispatch
-                        speak = Dispatch("SAPI.SpVoice")
-                        n = 3
-                        while n > 0:
-                            speak.Speak("Delivery slot found! A Notification has been sent to your phone. Slots are not guaranteed!")
-                            n -= 1
-                    if platform == "mac":
-                        n = 3
-                        while n > 0:
-                            os.system("say 'Delivery slot found! A Notification has been sent to your phone. Slots are not guaranteed!'")
-                            n -= 1
+                        if platform == "linux":
+                            n = 3
+                            while n > 0:
+                                os.system("spd-say 'Delivery slot found! Slots are not guaranteed!'")
+                                n -= 1
+                    except:
+                        print("No app notification received: Issue with PushMeAlert App or user_notification.txt")
+                        driver.maximize_window()
+                        if platform == "win":
+                            import win32com.client
+                            import pythoncom
+                            pythoncom.CoInitialize()
+                            from win32com.client import Dispatch
+                            speak = Dispatch("SAPI.SpVoice")
+                            n = 3
+                            while n > 0:
+                                speak.Speak("Delivery slot found!  Slots are not guaranteed!")
+                                n -= 1
+                        if platform == "mac":
+                            n = 3
+                            while n > 0:
+                                os.system("say 'Delivery slot found! Slots are not guaranteed!'")
+                                n -= 1
 
-                    if platform == "linux":
-                        n = 3
-                        while n > 0:
-                            os.system("spd-say 'Delivery slot found! A Notification has been sent to your phone. Slots are not guaranteed!'")
-                            n -= 1
-
+                        if platform == "linux":
+                            n = 3
+                            while n > 0:
+                                os.system("spd-say 'Delivery slot found! Slots are not guaranteed!'")
+                                n -= 1
+                   
                 else:
                     time.sleep(10)
                     driver.refresh()
@@ -353,11 +380,9 @@ def the_gui():
                     window.close()
                     break
             else:
-                #driver.quit()
                 window.close()
-
-    window.close()
-
+    
+    window.close()      
 
 message = ''
 if __name__ == '__main__':
