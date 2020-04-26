@@ -16,9 +16,9 @@ The ***Amazon Fresh delivery slot notification tool*** informs users via system 
 #### [Windows](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/releases/download/v1.0.0-win32/Amazon_Delivery_Slot_Notifier.zip)
 #### [MacOS](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/releases/download/v1.0.0-macOS/Amazon_Delivery_Slot_Notifier.zip)
 
-**2.** Download the 'Push Me' app on your iPhone or PC and follow the in-app instructions to setup a token.
+**2.** Download the 'PushMeAlert' app on your IOS/Android Phone and register with your phone number. Click on settings and copy tokens- user & key. (for more details refer to set-up instructions below)
 
-**3.** Create a text file called "user_notification.txt", paste your token (from Step-2) in this file. Save the file in the same folder as the application. Double-click the application to begin the process!.
+**3.** Create a text file called "user_notification.txt", paste your tokens (from Step-2) in this file. Save the file in the same folder as the application. Double-click the application to begin the process!. (for more details refer to set-up instructions below)
 
 
 ### Please share this with your friends and family! #StrongerTogether :muscle:
@@ -31,8 +31,8 @@ Users in India can use our other [application for the "Big Basket" delivery webs
 
 ### Pre-Requisites ###
 1. Chrome browser
-2. "Push Me" App
-3. "user_notification.txt" (File containing users registered token from the "Push Me" app)
+2. "PushMeAlert" App [Here](https://pushmealert.com/)
+3. "user_notification.txt" (File containing users registered tokens from the "PushMeAlert" app)
 
 ****
 
@@ -58,13 +58,21 @@ Users in India can use our other [application for the "Big Basket" delivery webs
 
  ![](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Application%20Notify%20Me.png)
  
-7.	The application will keep running in the background and checking for available slots. Once a slot is available the application will notify you verbally and via a push notification on the "Push Me" App
-
-<p align="center">
- <img src="https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/blob/master/img/Push%20Me%20app%20notification.png" height=500>
-</p>
+7.	The application will keep running in the background and checking for available slots. Once a slot is available the application will notify you verbally and via a push notification on the "PushMeAlert" App
 
 8.	Once you're notified, quickly select a slot and finish checking out! :smile:
+
+### Set-up for PushMeAlert App
+
+1. Download "PushMeAlert" app from app store on your IOS/Andriod Phone [Here](https://pushmealert.com/)
+2. Register using your phone number
+3. Go-to setting options, copy user and key tokens in "user_notification.txt"
+
+<p align="center">
+ <img src="https://github.com/ojasvi92/Delivery-slot-notifier-Amazon-Fresh-COVID-19/blob/user-notification-file-issue-(Mac-%26-Linux)/img/pushmealert_settings_page.jpg" height=500>
+ <img src="https://github.com/ojasvi92/Delivery-slot-notifier-Amazon-Fresh-COVID-19/blob/user-notification-file-issue-(Mac-%26-Linux)/img/user_notification_file.PNG">
+</p>
+
 
 
 ### Important!
