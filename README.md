@@ -13,8 +13,8 @@ The ***Amazon Fresh delivery slot notification tool*** informs users via system 
 
 ### We've tried to make this application user-friendly so that anyone is able to run it on their systems in 3 easy steps: 
 **1.** Download the application -  
-#### [Windows](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/releases/download/v1.0.0-win32/Amazon_Delivery_Slot_Notifier.zip)
-#### [MacOS](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/releases/download/v1.0.0-macOS/Amazon_Delivery_Slot_Notifier.zip)
+#### [Windows](https://github.com/ojasvi92/Delivery-slot-notifier-Amazon-Fresh-COVID-19/releases/download/v1.0.0-win32/Amazon_Delivery_Slot_Notifier.zip)
+#### [MacOS](https://github.com/ojasvi92/Delivery-slot-notifier-Amazon-Fresh-COVID-19/releases/download/v1.0.0-macOS/Amazon_Delivery_Slot_Notifier.zip)
 
 **2.** Download the 'PushMeAlert' app on your iOS/Android Phone and register with your phone number. Click on settings and copy tokens- user & key. (for more details refer to set-up instructions below)
 
