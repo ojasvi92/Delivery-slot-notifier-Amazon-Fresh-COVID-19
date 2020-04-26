@@ -16,9 +16,9 @@ The ***Amazon Fresh delivery slot notification tool*** informs users via system 
 #### [Windows](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/releases/download/v1.0.0-win32/Amazon_Delivery_Slot_Notifier.zip)
 #### [MacOS](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19/releases/download/v1.0.0-macOS/Amazon_Delivery_Slot_Notifier.zip)
 
-**2.** Download the 'Push Me' app on your iPhone or PC and follow the in-app instructions to setup a token.
+**2.** Download the 'PushMeAlert' app on your IOS/Android Phone and register with your phone number. Go to settings otpion and copy tokens - user & key. (see screenshot below for reference)
 
-**3.** Create a text file called "user_notification.txt", paste your token (from Step-2) in this file. Save the file in the same folder as the application. Double-click the application to begin the process!.
+**3.** Create a text file called "user_notification.txt", paste your tokens (from Step-2) in this file. Save the file in the same folder as the application. Double-click the application to begin the process!. (see screenshot below for reference)
 
 
 ### Please share this with your friends and family! #StrongerTogether :muscle:
@@ -31,8 +31,8 @@ Users in India can use our other [application for the "Big Basket" delivery webs
 
 ### Pre-Requisites ###
 1. Chrome browser
-2. "Push Me" App
-3. "user_notification.txt" (File containing users registered token from the "Push Me" app)
+2. "PushMeAlert" App
+3. "user_notification.txt" (File containing users registered tokens from the "PushMeAlert" app)
 
 ****
 
@@ -66,6 +66,11 @@ Users in India can use our other [application for the "Big Basket" delivery webs
 
 8.	Once you're notified, quickly select a slot and finish checking out! :smile:
 
+### Set-up for PushMeAlert App
+
+1. Download "PushMeAlert" app from app store on your IOS/Andriod Phone
+2. Register using your phone number
+3. Go-to setting options, copy user and key tokens in "user_notification.txt"
 
 ### Important!
 1. Do not close the browser window initialized by the application
